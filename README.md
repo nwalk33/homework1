@@ -1,4 +1,4 @@
-# Code Refactor 
+# Project 1 Horiseon Website Code Refractor
 
 ## User Story
 AS A marketing agency
@@ -19,7 +19,11 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Description
-I am refactoring the original code to the Horiseon website. I have shortened the code without changing its appreance or usage. You can find such changes in the css style sheet. I have also changes many elements in the html to make it easier to read and adjust.
+I am refactoring the original code to the Horiseon website. 
+I have shortened the code without changing its appreance or usage. 
+You can find such changes in the css style sheet. 
+I have also changes many elements in the html to make it easier to read and decypher. 
+I left notes in the css file that shows where I made these adjustments.
 
-src 
-link to url
+## URL Link 
+https://nwalk33.github.io/homework1/
