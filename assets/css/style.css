@@ -18,6 +18,7 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    background-color: #2a607c;
 }
 
 .header h1 .seo {
